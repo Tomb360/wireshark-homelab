@@ -92,12 +92,7 @@
   <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514862603346903132/image.png?ex=6a2e3abd&is=6a2ce93d&hm=3822c4b50d9e25226f93490584ddaf3ca318489e84c793e4d4063966cd582c30&" alt="Nmap scan traffic" width="800"/>
 </p>
 
-<p align="center">Standard Nmap scan visible with many connection attempts originating from 192.168.100.103.</p>
-
-### <p align="center">Filtering SYN Packets to Show the Attacker Knocking</p>
-
-
-<p align="center">Filtered for SYN packets to visualise the attacker probing each port in sequence.</p>
+<p align="center">Standard Nmap scan visible with many connection attempts originating from 192.168.100.103. Filtered for SYN packets to visualise the attacker probing each port in sequence.</p>
 
 ### <p align="center">No SYN-ACK Responses - No Open Ports</p>
 
