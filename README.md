@@ -1,6 +1,15 @@
 # <p align="center">Wireshark Homelab Project</p>
 
-<p align="center">A series of practical Wireshark labs covering packet capture, network reconnaissance detection, malware traffic analysis, credential harvesting, lateral movement, and ARP scanning using pcap samples and simulated traffic.</p>
+<h2 align="center">Description</h2>
+A series of 6 practical Wireshark labs covering:
+
+
+- Packet capture
+- Network reconnaissance detection
+- Malware traffic analysis
+- Credential harvesting
+- Lateral movement 
+- ARP scanning
 
 ---
 ## <p align="center"> Sample Captures Used</p>
