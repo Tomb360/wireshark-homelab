@@ -12,7 +12,7 @@
   - [Lateral Movement](https://github.com/sbousseaden/PCAP-ATTACK/blob/master/Lateral%20Movement/LM_smbexec_smb_dcerpc_svcctl_epm.pcapng)
 
 
-## <p align="center">Lab 1 — Wireshark Setup and Creating a Capture</p>
+## <p align="center">Lab 1 - Wireshark Setup and Creating a Capture</p>
 
 ### <p align="center">Installed Wireshark</p>
 
@@ -60,7 +60,7 @@
 
 <p align="center">Used Statistics > Protocol Hierarchy to view the percentage breakdown of traffic by protocol.</p>
 
-### <p align="center">Conversations — Identifying the Most Active IP</p>
+### <p align="center">Conversations - Identifying the Most Active IP</p>
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514857963334930452/image.png?ex=6a2e366b&is=6a2ce4eb&hm=303b3faad36939e8e7c3bd49e8d88bd710ef35c075da81787b2b9b9d797c0716&" alt="Conversations" width="800"/>
@@ -78,17 +78,15 @@
 
 ---
 
-## <p align="center">Lab 2 — Network Reconnaissance</p>
+## <p align="center">Lab 2 - Network Reconnaissance</p>
 
 ### <p align="center">Downloaded Nmap Sample Capture</p>
 
-<p align="center">
-  <img src="" alt="Nmap sample capture" width="800"/>
-</p>
+
 
 <p align="center">Downloaded an Nmap scan sample from the Wireshark Wiki sample captures page.</p>
 
-### <p align="center">Standard Nmap Scan — Multiple Connection Attempts</p>
+### <p align="center">Standard Nmap Scan - Multiple Connection Attempts</p>
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514862603346903132/image.png?ex=6a2e3abd&is=6a2ce93d&hm=3822c4b50d9e25226f93490584ddaf3ca318489e84c793e4d4063966cd582c30&" alt="Nmap scan traffic" width="800"/>
@@ -98,13 +96,10 @@
 
 ### <p align="center">Filtering SYN Packets to Show the Attacker Knocking</p>
 
-<p align="center">
-  <img src="" alt="SYN filter" width="800"/>
-</p>
 
 <p align="center">Filtered for SYN packets to visualise the attacker probing each port in sequence.</p>
 
-### <p align="center">No SYN-ACK Responses — No Open Ports</p>
+### <p align="center">No SYN-ACK Responses - No Open Ports</p>
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514865709174226944/image.png?ex=6a2e3da1&is=6a2cec21&hm=0ac2c846e945e8e4b814691e934c0d10117feeeecf79cf3af0bd66ddeaaa1901&" alt="No SYN-ACK results" width="800"/>
@@ -140,7 +135,7 @@
 
 ---
 
-## <p align="center">Lab 3 — Malware Analysis</p>
+## <p align="center">Lab 3 - Malware Analysis</p>
 
 ### <p align="center">Pcap Loaded and Protocol Hierarchy Checked</p>
 
@@ -150,13 +145,13 @@
 
 <p align="center">Loaded a malware pcap from malware-traffic-analysis.net and checked Statistics > Protocol Hierarchy to identify suspicious traffic patterns including a large volume of HTTP form-encoded data.</p>
 
-### <p align="center">HTTP Filter — POST Requests to Suspicious URL</p>
+### <p align="center">HTTP Filter - POST Requests to Suspicious URL</p>
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514871160825712710/image.png?ex=6a2e42b5&is=6a2cf135&hm=db198fb7820daa8da8f1b923beaa85a3d9f3b945210ba70602077f94c57b9377&" alt="HTTP filter POST requests" width="800"/>
 </p>
 
-<p align="center">HTTP filter applied — almost every packet was a POST request to 45.131.214.85/fakeurl.htm, a clear indicator of malware beaconing to a C2 server.</p>
+<p align="center">HTTP filter applied - almost every packet was a POST request to 45.131.214.85/fakeurl.htm, a clear indicator of malware beaconing to a C2 server.</p>
 
 ### <p align="center">Following the HTTP Stream</p>
 
@@ -167,10 +162,6 @@
 <p align="center">Followed the HTTP stream to reveal NetSupport Manager traffic — a legitimate remote access tool frequently abused as a Remote Access Trojan (RAT).</p>
 
 ### <p align="center">Breaking Down the Communication Pattern</p>
-
-<p align="center">
-  <img src="" alt="C2 communication pattern" width="800"/>
-</p>
 
 <p align="center">Communication pattern identified: CMD=POLL (infected machine checking in), CMD=ENCD (encoded data exchanged), ES=1 (encryption enabled), and Server: NetSupport Gateway/1.92 confirming attacker-controlled C2 infrastructure.</p>
 
@@ -231,7 +222,7 @@
 
 ---
 
-## <p align="center">Lab 4 — Credential Harvesting Detection</p>
+## <p align="center">Lab 4 - Credential Harvesting Detection</p>
 
 ### <p align="center">Telnet Capture Loaded</p>
 
@@ -249,7 +240,7 @@
 
 <p align="center">Filtered traffic by Telnet protocol to isolate relevant packets.</p>
 
-### <p align="center">Following TCP Stream — Credentials Exposed</p>
+### <p align="center">Following TCP Stream - Credentials Exposed</p>
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514888744254050324/image.png?ex=6a2daa55&is=6a2c58d5&hm=ca685fd4268ebad34fe96b39ea343e15fabdea64ba772296efd06f150fe8fff4&" alt="TCP stream credentials" width="800"/>
@@ -273,9 +264,9 @@
 
 ---
 
-## <p align="center">Lab 5 — Lateral Movement</p>
+## <p align="center">Lab 5 - Lateral Movement</p>
 
-### <p align="center">SMB Filter — Session Setup Request with Suspicious Username</p>
+### <p align="center">SMB Filter - Session Setup Request with Suspicious Username</p>
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1515244700142010438/image.png?ex=6a2e4d18&is=6a2cfb98&hm=3055e29c026791c6dbc00bdd62e1883c7c1822bd2318963497f41c6b00052674&" alt="SMB session setup" width="800"/>
@@ -289,9 +280,9 @@
   <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1515248702166532198/image.png?ex=6a2e50d2&is=6a2cff52&hm=34c55b8475a82577f7705abf8fce56770f0fffdf91810c18cf0fdf581d60d1d2&" alt="SMB2 session setup commands" width="800"/>
 </p>
 
-<p align="center">Applied smb2.cmd == 1 filter to show all SMB2 session setup commands — two setup attempts identified.</p>
+<p align="center">Applied smb2.cmd == 1 filter to show all SMB2 session setup commands - two setup attempts identified.</p>
 
-### <p align="center">Packet 25 — Successful Authentication</p>
+### <p align="center">Packet 25 - Successful Authentication</p>
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1515248878658781295/image.png?ex=6a2e50fc&is=6a2cff7c&hm=0611516c8c17f4b29129f89138b21750d3c89a4da881a05858509ffc80ede761&" alt="Successful SMB authentication" width="800"/>
@@ -348,7 +339,7 @@
 
 ---
 
-## <p align="center">Lab 6 — ARP Scanning</p>
+## <p align="center">Lab 6 - ARP Scanning</p>
 
 ### <p align="center">ARP Storm Capture Loaded</p>
 
@@ -358,7 +349,7 @@
 
 <p align="center">Loaded arp-storm.pcap from the Wireshark website — all packets confirmed as ARP.</p>
 
-### <p align="center">File Properties — Packet Rate</p>
+### <p align="center">File Properties - Packet Rate</p>
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1515253131309613076/image.png?ex=6a2e54f2&is=6a2d0372&hm=7f9504517e4c2978f6404baaeb8b4e15328ff3ddfb7347dd737fbaedf11e94a6&" alt="ARP file properties" width="800"/>
@@ -366,7 +357,7 @@
 
 <p align="center">Capture file properties showed 622 ARP packets across 28.969 seconds.</p>
 
-### <p align="center">Conversations — Single MAC Generating All Traffic</p>
+### <p align="center">Conversations - Single MAC Generating All Traffic</p>
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1515255446720741448/image.png?ex=6a2e571a&is=6a2d059a&hm=641bf46b7f06611c9f159480b108c10e07ce8c0bf454a074ea6eeb9e746fed44&" alt="ARP conversations" width="800"/>
