@@ -1,8 +1,7 @@
 # <p align="center">Wireshark Homelab Project</p>
 
 <h2 align="center">Description</h2>
-A series of 6 practical Wireshark labs covering:
-
+Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 
 - Packet capture
 - Network reconnaissance detection
