@@ -1,9 +1,16 @@
 # <p align="center">Wireshark Homelab Project</p>
 
-<p align="center">A series of practical Wireshark labs covering packet capture, network reconnaissance detection, malware traffic analysis, credential harvesting, lateral movement, and ARP scanning — using real-world pcap samples and simulated traffic.</p>
+<p align="center">A series of practical Wireshark labs covering packet capture, network reconnaissance detection, malware traffic analysis, credential harvesting, lateral movement, and ARP scanning using world pcap samples and simulated traffic.</p>
 
 ---
-## <p align="center"> Files Used</p>
+## <p align="center"> Sample Captures Used</p>
+- <b>Nmap scan, telnet-cooked and arp-storm from Wireshark wiki</b>
+  - [Wireshark Wiki](https://wiki.wireshark.org/SampleCaptures)
+- <b>Malware Sample from Malware traffic analysis</b>
+  - [Malware Traffic](https://malware-traffic-analysis.net/2026/02/28/index.html)
+- <b>Lateral Movement Sample from Github</b>
+  - [Lateral Movement](https://github.com/sbousseaden/PCAP-ATTACK/blob/master/Lateral%20Movement/LM_smbexec_smb_dcerpc_svcctl_epm.pcapng)
+
 
 ## <p align="center">Lab 1 — Wireshark Setup and Creating a Capture</p>
 
