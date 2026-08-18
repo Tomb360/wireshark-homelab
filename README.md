@@ -25,7 +25,7 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">Installed Wireshark</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514848359163236362/image.png?ex=6a2e2d79&is=6a2cdbf9&hm=41946d2ddd400529b40ad63c20d8c88e45e0a5964cce4bf2b21b625eb7e8355f&" alt="Wireshark installed" width="800"/>
+  <img src="https://github.com/user-attachments/assets/3af78999-eb7d-43ea-a4d3-87aeec27689d" alt="Wireshark installed" width="800"/>
 </p>
 
 <p align="center">Wireshark installed and launched ready for packet capture.</p>
@@ -33,7 +33,7 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">Selected Main Adapter and Generated Traffic</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514848782502727691/image.png?ex=6a2e2dde&is=6a2cdc5e&hm=9760fb0b258c139f52373646b293113875cc69b7f24894ac4f5641991650840d&" alt="Adapter selected and traffic generated" width="800"/>
+  <img src="https://github.com/user-attachments/assets/ebb4e24e-220a-4c2c-9d08-0e99153271f7" alt="Adapter selected and traffic generated" width="800"/>
 </p>
 
 <p align="center">Selected the main Ethernet adapter and visited 3 websites to generate traffic for a live capture.</p>
@@ -41,7 +41,7 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">Saving the Capture</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514849186984759336/image.png?ex=6a2e2e3e&is=6a2cdcbe&hm=293dbcc2c7fa221457071b7061338ab34d445703e9305d794c516fcde1663029&" alt="Saving capture" width="800"/>
+  <img src="https://github.com/user-attachments/assets/5ccacddc-724c-4992-815c-675961c84442" alt="Saving capture" width="800"/>
 </p>
 
 <p align="center">Capture saved for further analysis.</p>
@@ -49,13 +49,13 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">3 Websites Resolved Using DNS Filter</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514855023320895509/image.png?ex=6a2e33ae&is=6a2ce22e&hm=fdab8ee9e69e2dc5dcb445222fcae2b954344ab6a9b0a816bd30aee1ae76e40c&" alt="DNS filter" width="800"/>
+  <img src="https://github.com/user-attachments/assets/d6ddcf23-b082-4f21-bec5-a9c6a2d6d938" alt="DNS filter" width="800"/>
 </p>
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514855091218415646/image.png?ex=6a2e33be&is=6a2ce23e&hm=063d2e8c80d718fa97c95bf6762e593b2bb7ed2f2bd9cc5c1fc490bb3893cfff&" width="800"/>
+  <img src="https://github.com/user-attachments/assets/0ef2f298-ee05-478a-9480-81ce96ad87cb" width="800"/>
 </p>
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514855201042071624/image.png?ex=6a2e33d8&is=6a2ce258&hm=7ea51278c0d566a5f394dee5f4c0614a2d12c200367928f91e70428c142983cd&" width="800"/>
+  <img src="https://github.com/user-attachments/assets/070c5dba-af87-421c-bac4-9445e98b6e4c" width="800"/>
 </p>
 
 <p align="center">Applied a DNS filter to identify the three websites resolved during the capture.</p>
@@ -63,7 +63,7 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">Protocol Hierarchy</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514857187686744216/image.png?ex=6a2e35b2&is=6a2ce432&hm=d4fe8f4d51d763bcca0be8a4ed9782dfde05f38e3eaf24e1ab1db4b07221502e&" alt="Protocol hierarchy" width="800"/>
+  <img src="https://github.com/user-attachments/assets/3f516705-0757-4d54-b886-ff5176e1182b" alt="Protocol hierarchy" width="800"/>
 </p>
 
 <p align="center">Used Statistics > Protocol Hierarchy to view the percentage breakdown of traffic by protocol.</p>
@@ -71,7 +71,7 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">Conversations - Identifying the Most Active IP</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514857963334930452/image.png?ex=6a2e366b&is=6a2ce4eb&hm=303b3faad36939e8e7c3bd49e8d88bd710ef35c075da81787b2b9b9d797c0716&" alt="Conversations" width="800"/>
+  <img src="https://github.com/user-attachments/assets/6cb43cf4-7337-4b6c-bbd3-c87d5edc1d4f" alt="Conversations" width="800"/>
 </p>
 
 <p align="center">Statistics > Conversations used to identify which IP address generated the most traffic.</p>
@@ -79,7 +79,11 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">Following UDP Stream to Reveal URL</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514858880209780819/image.png?ex=6a2e3745&is=6a2ce5c5&hm=ff64130cb3c0596e57cf637182dc9233078a7a5ce49ab5b67dec1c96e969a456&" alt="UDP stream" width="800"/>
+  <img src="https://github.com/user-attachments/assets/a0fc3727-03a4-4f6e-a99c-8fc292f719d3" alt="UDP stream" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c012b7b1-e314-4423-91e0-a54fc679c0a5" alt="Nmap scan traffic" width="800"/>
 </p>
 
 <p align="center">Followed a UDP stream to reveal the URL embedded in the traffic.</p>
@@ -97,7 +101,7 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">Standard Nmap Scan - Multiple Connection Attempts</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514862603346903132/image.png?ex=6a2e3abd&is=6a2ce93d&hm=3822c4b50d9e25226f93490584ddaf3ca318489e84c793e4d4063966cd582c30&" alt="Nmap scan traffic" width="800"/>
+  <img src="https://github.com/user-attachments/assets/93c5e08a-bf1e-4d9a-b300-97c2bd798c8b" alt="Nmap scan traffic" width="800"/>
 </p>
 
 <p align="center">Standard Nmap scan visible with many connection attempts originating from 192.168.100.103. Filtered for SYN packets to visualise the attacker probing each port in sequence.</p>
@@ -105,7 +109,7 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">No SYN-ACK Responses - No Open Ports</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514865709174226944/image.png?ex=6a2e3da1&is=6a2cec21&hm=0ac2c846e945e8e4b814691e934c0d10117feeeecf79cf3af0bd66ddeaaa1901&" alt="No SYN-ACK results" width="800"/>
+  <img src="https://github.com/user-attachments/assets/44ef5330-e6a2-4236-930c-1b6c0d40fcc2" alt="No SYN-ACK results" width="800"/>
 </p>
 
 <p align="center">Filter tcp.flags.syn == 1 && tcp.flags.ack == 1 returned no results, confirming no open ports were found by the scanner.</p>
@@ -113,7 +117,7 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">Capture File Properties — Packet Scan Rate</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514867460397072434/image.png?ex=6a2e3f43&is=6a2cedc3&hm=fa3b66a2e032ec37089bf22823eb79361d5e5804c5db0860c3173a82e5a8ff49&" alt="Capture file properties" width="800"/>
+  <img src="https://github.com/user-attachments/assets/1cdbe37b-55c5-4b21-a49d-afe0ab9dba5b" alt="Capture file properties" width="800"/>
 </p>
 
 <p align="center">Capture file properties used to calculate the packet scan rate across the duration of the scan.</p>
@@ -143,7 +147,11 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">Pcap Loaded and Protocol Hierarchy Checked</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514870743261773824/image.png?ex=6a2e4252&is=6a2cf0d2&hm=4bac4fe24df8bda84bb447d29e75e1a9eaad98e60e00d72e5fc9b656625e1252&" alt="Protocol hierarchy malware" width="800"/>
+  <img src="https://github.com/user-attachments/assets/ae40cb89-74ac-4ed3-8704-2dab9330f1d0" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0af6ee55-de1c-4be9-beba-45a09dc0c388" alt="Protocol hierarchy malware" width="800"/>
 </p>
 
 <p align="center">Loaded a malware pcap from malware-traffic-analysis.net and checked Statistics > Protocol Hierarchy to identify suspicious traffic patterns including a large volume of HTTP form-encoded data.</p>
@@ -151,7 +159,7 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">HTTP Filter - POST Requests to Suspicious URL</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514871160825712710/image.png?ex=6a2e42b5&is=6a2cf135&hm=db198fb7820daa8da8f1b923beaa85a3d9f3b945210ba70602077f94c57b9377&" alt="HTTP filter POST requests" width="800"/>
+  <img src="https://github.com/user-attachments/assets/ae40cb89-74ac-4ed3-8704-2dab9330f1d0" alt="HTTP filter POST requests" width="800"/>
 </p>
 
 <p align="center">HTTP filter applied - almost every packet was a POST request to 45.131.214.85/fakeurl.htm, a clear indicator of malware beaconing to a C2 server.</p>
@@ -159,7 +167,7 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">Following the HTTP Stream</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514871868199534672/image.png?ex=6a2e435e&is=6a2cf1de&hm=20b0ebb5e00b8eb30f9d7f7e6c64509661dec1deecf7c49874d6d64cdc4ced67&" alt="HTTP stream" width="800"/>
+  <img src="https://github.com/user-attachments/assets/d5856089-5f7d-4451-83ca-c8775f4c166f" alt="HTTP stream" width="800"/>
 </p>
 
 <p align="center">Followed the HTTP stream to reveal NetSupport Manager traffic — a legitimate remote access tool frequently abused as a Remote Access Trojan (RAT).</p>
@@ -171,7 +179,7 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">VirusTotal Confirms Malicious IP</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514872417749569677/image.png?ex=6a2e43e1&is=6a2cf261&hm=e73e9a9296556216373827aa8331e1bdffb393f45d865693b3e45751e3d60ee5&" alt="VirusTotal result" width="800"/>
+  <img src="https://github.com/user-attachments/assets/33fa5a74-4540-4c9a-b3a1-bd44700e6693" alt="VirusTotal result" width="800"/>
 </p>
 
 <p align="center">Destination IP 45.131.214.85 confirmed as malicious via VirusTotal.</p>
@@ -179,7 +187,7 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">MAC Address from Packet Info</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514873654477983764/image.png?ex=6a2e4508&is=6a2cf388&hm=3cd51959c830b2f9b5f29f019cc6ad31dc610ec23045330cfe02ed77da7af20b&" alt="MAC address" width="800"/>
+  <img src="https://github.com/user-attachments/assets/3909a3b9-a777-4ede-9cf8-64eacab679b2" alt="MAC address" width="800"/>
 </p>
 
 <p align="center">Expanded packet details to retrieve the infected host MAC address: 00:19:d1:b2:4d:ad.</p>
@@ -187,7 +195,7 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">Kerberos Filter to Find Client Name</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514879600717594624/image.png?ex=6a2e4a91&is=6a2cf911&hm=c40daf8354b15e56ce12e2600a987c26e8f3d8574cb97045f920d2f51b1f0004&" alt="Kerberos filter" width="800"/>
+  <img src="https://github.com/user-attachments/assets/e16b7580-220b-46c9-9b64-d2131178eecf" alt="Kerberos filter" width="800"/>
 </p>
 
 <p align="center">Applied the kerberos.CNameString filter to identify the client username as brolf.</p>
@@ -195,10 +203,10 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">Full Name Found via Find Packet</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514883566138294433/image.png?ex=6a2da583&is=6a2c5403&hm=1de0c1366b706d77dd8c943ecc1cdb176df17e832c8f2ad6bb0aa4b0d991c919&" alt="Find packet username" width="800"/>
+  <img src="https://github.com/user-attachments/assets/deae31ce-5bc0-499a-aea2-d1d9c55e34fa" alt="Find packet username" width="800"/>
 </p>
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514883357438382160/image.png?ex=6a2da551&is=6a2c53d1&hm=99f562c6ca57b1cec9a411043bf63b4f54b222f76698a58ca6b17f1d2fe5ec26&" width="800"/>
+  <img src="https://github.com/user-attachments/assets/b24b9b12-b13c-447e-b103-a28c1cdc499e" width="800"/>
 </p>
 
 
@@ -230,7 +238,7 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">Telnet Capture Loaded</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514887806000955523/image.png?ex=6a2da976&is=6a2c57f6&hm=67e20129d026a68497d9c963ba1821ff6ed7957f16607cd9bca115481d52a91d&" alt="Telnet capture" width="800"/>
+  <img src="https://github.com/user-attachments/assets/bf65fd04-72fe-4582-9a68-931ae6a56b5c" alt="Telnet capture" width="800"/>
 </p>
 
 <p align="center">Loaded telnet-cooked.pcap from the Wireshark Wiki.</p>
@@ -238,7 +246,7 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">Telnet Filter Applied</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514888602679640174/image.png?ex=6a2daa34&is=6a2c58b4&hm=bef9a838faaf18cbc41d727bf795da232894dbe654e1b37dbc15c9ec2b8ffd05&" alt="Telnet filter" width="800"/>
+  <img src="https://github.com/user-attachments/assets/036da8fc-5a4e-41b1-a2ee-580fc10ccd29" alt="Telnet filter" width="800"/>
 </p>
 
 <p align="center">Filtered traffic by Telnet protocol to isolate relevant packets.</p>
@@ -246,7 +254,7 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">Following TCP Stream - Credentials Exposed</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1514888744254050324/image.png?ex=6a2daa55&is=6a2c58d5&hm=ca685fd4268ebad34fe96b39ea343e15fabdea64ba772296efd06f150fe8fff4&" alt="TCP stream credentials" width="800"/>
+  <img src="https://github.com/user-attachments/assets/d6de5337-a5b9-4144-9ef8-a7daf9fbf023" alt="TCP stream credentials" width="800"/>
 </p>
 
 <p align="center">Followed the TCP stream to reveal plaintext login credentials transmitted over Telnet.</p>
@@ -272,7 +280,7 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">SMB Filter - Session Setup Request with Suspicious Username</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1515244700142010438/image.png?ex=6a2e4d18&is=6a2cfb98&hm=3055e29c026791c6dbc00bdd62e1883c7c1822bd2318963497f41c6b00052674&" alt="SMB session setup" width="800"/>
+  <img src="https://github.com/user-attachments/assets/e9455101-5b3a-44a5-b7b8-798a071c0bc8" alt="SMB session setup" width="800"/>
 </p>
 
 <p align="center">Filtered by SMB to identify a session setup request on packet 24 using the suspicious username "backdoor".</p>
@@ -280,7 +288,7 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">SMB2 Session Setup Commands</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1515248702166532198/image.png?ex=6a2e50d2&is=6a2cff52&hm=34c55b8475a82577f7705abf8fce56770f0fffdf91810c18cf0fdf581d60d1d2&" alt="SMB2 session setup commands" width="800"/>
+  <img src="https://github.com/user-attachments/assets/f944a968-a661-4912-a340-4829d860b164" alt="SMB2 session setup commands" width="800"/>
 </p>
 
 <p align="center">Applied smb2.cmd == 1 filter to show all SMB2 session setup commands - two setup attempts identified.</p>
@@ -288,7 +296,7 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">Packet 25 - Successful Authentication</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1515248878658781295/image.png?ex=6a2e50fc&is=6a2cff7c&hm=0611516c8c17f4b29129f89138b21750d3c89a4da881a05858509ffc80ede761&" alt="Successful SMB authentication" width="800"/>
+  <img src="https://github.com/user-attachments/assets/0777855b-00f8-4490-a18d-31a5152b4ed6" alt="Successful SMB authentication" width="800"/>
 </p>
 
 <p align="center">Expanded packet 25 to confirm the session setup was successful.</p>
@@ -296,7 +304,7 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">NTLMSSP Auth Username Filter</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1515250190766968962/image.png?ex=6a2e5235&is=6a2d00b5&hm=077b2947b1f17a8d5448dac3fc6fcd18f7cb09f69ace7d31c30c7847813facbf&" alt="NTLMSSP auth filter" width="800"/>
+  <img src="https://github.com/user-attachments/assets/792e7b23-3480-481a-a409-af3f57817a71" alt="NTLMSSP auth filter" width="800"/>
 </p>
 
 <p align="center">Applied ntlmssp.auth.username filter to identify the authenticating account.</p>
@@ -304,7 +312,7 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">DCERPC Protocols — Remote Execution Indicated</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1515251281738862672/image.png?ex=6a2e5339&is=6a2d01b9&hm=cde463971365d712a98949e9bc1486ac9570c06945d7e24e5ce10a0382fe6443&" alt="DCERPC protocols" width="800"/>
+  <img src="https://github.com/user-attachments/assets/3a240898-ebff-4fe3-9a48-d21361db2bd3" alt="DCERPC protocols" width="800"/>
 </p>
 
 <p align="center">DCERPC (Distributed Computing Environment Remote Procedure Call) protocols identified, suggesting remote execution activity following the lateral movement.</p>
@@ -312,7 +320,7 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">NTLMv2 Hash Captured</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1515251347396497528/image.png?ex=6a2e5349&is=6a2d01c9&hm=5d36eef2d1434f943b571e63c3514fcbf220c971cdf4f7009331c6705b89c86e&" alt="NTLMv2 hash" width="800"/>
+  <img src="https://github.com/user-attachments/assets/9e92ffe4-1af8-4e80-a245-9616f079275e" alt="NTLMv2 hash" width="800"/>
 </p>
 
 <p align="center">NTLMv2 hash captured for account 3B\Backdoor using the NTProofStr string filter, indicating a likely Pass-the-Hash attack where the attacker replayed a harvested credential to authenticate laterally without knowing the plaintext password.</p>
@@ -347,7 +355,7 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">ARP Storm Capture Loaded</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1515252422497275944/image.png?ex=6a2e5449&is=6a2d02c9&hm=a04627e29d5ea69f68156b1a111f760a5b8c4b372090a747a00d0864fbed7c53&" alt="ARP storm capture" width="800"/>
+  <img src="https://github.com/user-attachments/assets/b06dbb69-87af-484c-9c49-6fa2fa318229" alt="ARP storm capture" width="800"/>
 </p>
 
 <p align="center">Loaded arp-storm.pcap from the Wireshark website — all packets confirmed as ARP.</p>
@@ -355,7 +363,7 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">File Properties - Packet Rate</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1515253131309613076/image.png?ex=6a2e54f2&is=6a2d0372&hm=7f9504517e4c2978f6404baaeb8b4e15328ff3ddfb7347dd737fbaedf11e94a6&" alt="ARP file properties" width="800"/>
+  <img src="https://github.com/user-attachments/assets/3a3fb606-370e-473a-bcae-1f621f0b384e" alt="ARP file properties" width="800"/>
 </p>
 
 <p align="center">Capture file properties showed 622 ARP packets across 28.969 seconds.</p>
@@ -363,7 +371,7 @@ Analysed sample pcaps to create a series of 6 practical Wireshark labs covering:
 ### <p align="center">Conversations - Single MAC Generating All Traffic</p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1514476543982702773/1515255446720741448/image.png?ex=6a2e571a&is=6a2d059a&hm=641bf46b7f06611c9f159480b108c10e07ce8c0bf454a074ea6eeb9e746fed44&" alt="ARP conversations" width="800"/>
+  <img src="https://github.com/user-attachments/assets/75a82230-487c-4a56-a3a2-c06c4e61a982" alt="ARP conversations" width="800"/>
 </p>
 
 <p align="center">Statistics > Conversations > Ethernet identified a single MAC address as the source of all ARP broadcast traffic.</p>
